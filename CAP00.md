@@ -55,6 +55,7 @@ JavaScript continua a evoluir com novas funcionalidades e recursos sendo adicion
 Aqui estão algumas perguntas que podem ajudar a aprofundar a compreensão sobre JavaScript:
 
 1. **Qual é a função do JavaScript em uma aplicação web?**
+è igual phyton
 2. **Como o JavaScript interage com HTML e CSS para criar páginas dinâmicas?**
 3. **Quais são as principais diferenças entre JavaScript e outras linguagens de programação?**
 4. **O que são frameworks e bibliotecas JavaScript, e por que são úteis?**
